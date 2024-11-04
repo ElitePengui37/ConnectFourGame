@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StyleGameLogo">
+        <item name="android:layout_margin">30dp</item>
+    </style>
+    <style name="StyleMenuOptions">
+        <item name="android:fontFamily">@font/heading1</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

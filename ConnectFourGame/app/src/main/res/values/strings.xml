@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ConnectFourGame</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_player_1v1">Player 1v1</string>
+    <string name="text_ai_vs">AI vs</string>
+    <string name="text_configuration">Configuration</string>
+    <string name="text_game_settings">Game Settings</string>
+    <string name="text_user_profile">User Profile</string>
+    <string name="text_user_statistics">User Statistics</string>
+    <string name="text_back">Back</string>
+    <string name="text_reset_game">Reset Game</string>
+    <string name="text_ranking">Player Ranking</string>
+    <string name="text_grid_dimension">Grid Dimension</string>
+    <string name="text_save">Save</string>
+    <string name="text_play">Play</string>
+    <string name="text_pvp_stats">PvP Stats</string>
+    <string name="text_ai_stats">AI Vs Stats</string>
+    <string name="text_wins">Wins</string>
+    <string name="text_losses">Losses</string>
+    <string name="text_draw">Draw</string>
+    <string name="text_draws">Draws</string>
+    <string name="text_match_history">Match History</string>
+    <string name="text_select">Select</string>
+    <string name="text_select_p1">Select Player 1</string>
+    <string name="text_select_p2">Select Player 2</string>
+    <string name="text_make_user">Create New User</string>
+    <string name="text_username">Username</string>
+    <string name="text_avatar">Avatar</string>
+    <string name="text_disc_color">Preferred Disc Colors</string>
+    <string name="text_edit">Edit Profile</string>
+    <string name="text_or">OR</string>
+    <string name="text_guest">Continue as Guest</string>
+    <string name="text_land_guest">Guest</string>
+    <string name="text_close">X</string>
+    <string name="text_invalid_username">Username field is required</string>
+    <string name="text_invalid_player1">Select a valid a Player 1</string>
+    <string name="text_invalid_player2">Select a valid a Player 2</string>
+    <string name="text_turn">TURN</string>
+    <string name="text_winner">Congratulations!\nWinner</string>
+    <string name="text_lose">You Lose</string>
+    <string name="text_play_again">Play Again</string>
+    <string name="text_see_board">See Board</string>
+    <string name="text_vs">VS</string>
+    <string name="text_resume">Resume</string>
+    <string-array name="texts_grid_dimension">
+        <item>7x6</item>
+        <item>6x5</item>
+        <item>8x7</item>
+    </string-array>
+</resources>

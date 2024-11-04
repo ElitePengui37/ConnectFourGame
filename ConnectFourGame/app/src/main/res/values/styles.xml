@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StyleGameLogo">
+        <item name="android:layout_margin">20dp</item>
+    </style>
+    <style name="StyleMenuOptions">
+        <item name="android:fontFamily">@font/heading1</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="StyleMenuOptionSmaller">
+        <item name="android:fontFamily">@font/heading1</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="StyleRegularButton">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:textColor">#f1f5f9</item>
+        <item name="android:background">@drawable/button_plate</item>
+    </style>
+
+    <style name="SpinnerItemStyle" parent="TextAppearance.AppCompat">
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="StylePlayerUsername">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="StylePlayerStats">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/poppins_italic</item>
+    </style>
+
+    <style name="StyleMatchCounter">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:layout_marginStart">3dp</item>
+        <item name="android:layout_marginEnd">3dp</item>
+    </style>
+
+    <style name="Theme.ConnectFourGame" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+</resources>

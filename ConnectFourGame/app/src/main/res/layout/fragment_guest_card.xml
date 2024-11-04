@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="130dp"
+    android:background="@drawable/section_card"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_gravity="center_vertical"
+    android:maxWidth="500dp"
+    android:layout_margin="15dp">
+        <TextView
+            android:id="@+id/close_button"
+            android:text="@string/text_close"
+            android:textColor="@color/black"
+            android:fontFamily="@font/heading1"
+            android:textSize="40sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            style="@style/StylePlayerUsername"
+            android:fontFamily="@font/heading1"
+            android:gravity="center"
+            android:text="@string/text_land_guest"
+            android:layout_weight="1.0"
+            android:layout_width="0dp"
+            android:layout_height="50dp" />
+</LinearLayout>
