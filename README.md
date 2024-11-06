@@ -2,4 +2,8 @@ Group Project done with several people in Mobile Application Development This is
 
 
 
-if grade fails to build due to different version of IDE go to gradle/libs.versions.toml andd change version to latest supported version and then resync
+if grade fails to build due to different version of IDE go to 
+```
+gradle/libs.versions.toml
+change version to latest supported version and then resync
+```
